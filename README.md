@@ -1,4 +1,4 @@
-# School_District_Analysis
+# School District Analysis
 
 ## Overview of Project
 We will be helping Maria, the chief data scientist for a city school, analyze data on student funding and students’ standardized test scores. 
