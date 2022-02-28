@@ -32,13 +32,13 @@ The district summary is not very affected, since there are so many students in t
 
 ![School_after](https://user-images.githubusercontent.com/88747464/132994176-58e3e1b6-36c6-417f-ad87-adc217b66a18.png)
 
-All the schools are not affected, except Thomas High School’s performance. The overall passing rate for Thomas High School has risen from 65.1% to 90.6%, after replacing the ninth-graders scores, which rose up from the eighth to the second place in the school rankings.
+All the schools are not affected, except Thomas High School’s performance. The overall passing rate for Thomas High School has risen from 65.1% to 90.6%, after replacing the ninth-graders scores, which rose up from eighth to second place in the school rankings.
 
 ### Relationship with other schools
 
-With the percentage of overall passing rate ranking, Cabrera High School is still in the first place. However, Griffin High School has dropped into the third place, since Thomas High School rise into the second place. 
+With the percentage of overall passing rate ranking, Cabrera High School is still in first place. However, Griffin High School has dropped into third place, since Thomas High School rise into second place. 
 
-The other high schools that were originally between the third place to the seventh place all had dropped one place. The high schools that are ranked from ninth place don't have impacts.
+The other high schools that were originally between third to seventh place all had dropped one place. The high schools that are ranked from ninth place don't have impacts.
 
 - Before
 
@@ -48,7 +48,7 @@ The other high schools that were originally between the third place to the seven
 
 ![after](https://user-images.githubusercontent.com/88747464/132994244-e2a7eb38-d62e-41a5-a442-e03f3c5a1a0a.png)
 
-Additionally, if the schools ranked by the percentage of passing reading rate, Thomas High School will rise from the last place to the third place, which is a huge difference.
+Additionally, if the schools ranked by the percentage of passing reading rate, Thomas High School will rise from last place to third place, which is a huge difference.
 
 ### Scores 
 
