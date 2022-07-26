@@ -1,8 +1,7 @@
 # School District Analysis
 
-## Overview of Project
-We will be helping Maria, the chief data scientist for a city school, analyze data on student funding and students’ standardized test scores. 
-Then, we will provide insights into trends and patterns in school performance.
+## Overview
+To analyze data on student funding and students’ standardized test scores, and then provide insights into trends and patterns in school performance.
 
 ### Purpose
 This analysis will assist the school board and superintendent in making decisions regarding the school budgets and priorities. 
